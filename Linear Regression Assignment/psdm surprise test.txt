@@ -1,0 +1,19 @@
+Q1- What is APIs, different types of APIs and benefits of using APIs?
+
+Q2- What is Feature Engineering and how we performes Features Engineering in AI?
+
+Q3- What is Time Series, Stationary and Non Stationary datasets?
+
+Q4- What are the characteristics of Stationary Datasets?
+
+Q5- What is ANN?
+
+Q6- What is CNN and applications of CNN?
+
+Q7- What are Pro & Cons of ANN & CNN?
+
+Q8- What is Autoencoders and types of Autoencoders ?
+
+Q9- What do you understand by NLP and give atleast 10 real world examples of NLP>
+
+Q10- What is WordClouds and its real world examples of it.
