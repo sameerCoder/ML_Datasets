@@ -1,0 +1,30 @@
+Question 1
+What is Statistics and why we need it?
+Question 2
+What is Population and Sample?
+Question 3
+What is Skewness and describe its different types?
+Question 4
+What is ungrouped Data and mention benfit of being data ungrouped?
+Question 5
+What is Frequency Distribution and why we need it?
+Question 6
+Describe Categorical frequency distribution , Ungrouped frequency distribution & Grouped frequency distributions with examples.
+Question 7
+Describe Bar Graph, Histograms , Pie chart & Frequency Polygon with respective pictures.
+Question 8
+What is difference between Histograms and Bar graph?
+Question 9
+What is difference between Average and mean?
+Question 10
+What is Mean, Median , Mode, variance, Covariance, Standard deviation , correlation?
+Question 11
+What is difference between Covariance and Correlation?
+Question 12
+What is Bias and variance?
+
+
+
+
+
+
