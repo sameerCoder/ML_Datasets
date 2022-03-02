@@ -1,0 +1,11 @@
+Question 1-Explain Descriptive Statistics & Inferential Statistics with Examples.
+Question 2-Explain different distribution - Normal, Skewed and Uniform.
+Question 3-Explain different Sampling
+Question 4-Explain different types of data- Nominal, Ordinal, interval and Ratio and which data type is best for use?
+Question 5-Explain different terms with example - range,mean,median,standard deviation,vairance,correlation and outliers.
+Question 6-Explain Mean Deviation skewness & kurtosis.
+Question 7-Explain Normal distribution and characteristics of skewness & kurtosis in it.
+Question 8-Explain Graphical Techniques ‐ bar graphs, pie charts, stem plots, histograms, boxplots, scatterplots
+with their applications.
+Question 9-Pro & Cons of Grouped & UnGrouped Data.
+Question 10-What is Structured and Unstructured Data. Explain with example.
