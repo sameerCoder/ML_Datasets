@@ -1,0 +1,45 @@
+Question 1: What is the central limit theorem and why is it so important?
+
+Question 2: What general conditions must be satisfied for the central limit theorem to hold?
+
+Question 3: What is Hypothesis testing and its applications?
+
+Question 4: What is the difference between observational and experimental data?
+
+Question 5: Different types of Sampling techniques, Explain with example.
+
+Question 6: What is the difference between type 1 error and type 2 error?
+
+Question 7: What is Bayes theorem and its applications?
+
+Question 8: Explain the below terms -
+	1. Regression Coefficient
+	2. Simple Linear Regression
+	3. Multi Linear Regression
+        4. Coefficient of Determination
+
+Question 9: Different between Pearson Correlation & Spearman Rank Correlation?
+
+Question 10: Explain Skewness & Kurtosis.
+
+Question 11: Explain the Steps of Hypothesis Tests?
+
+Question 12: Different between ANOVA & Chi-Square test and its applications?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
