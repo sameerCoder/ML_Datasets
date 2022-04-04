@@ -1,0 +1,42 @@
+Question 1: Explain the below terms -
+            *True Positive
+            *True Negative
+            *False Positive(Type I Error)
+            *False Negative(Type II Error)
+	    *Sensitivity
+            *Specificity
+Question 2: What is AUC(Area Under the Curve) and ROC(Receiver Operating Characteristics)?
+
+Question 3: What are the usages/benefits of AUC - ROC?
+
+Question 4: Explain different values of AUC - 1 / 0.5 / 0.
+
+Question 5: Different between Bias and Variances?
+
+Question 6: Explain Underfitting, Overfitting and Best Fitting in Machine Learning with graph & Example.
+
+Quwstion 7: Explain Feature Scaling and different techniques to do Feature Sacaling.
+
+Question 8: Is it good to have overfitting model why or whynot?
+
+Question 9: Difference between Decision Tree Classifier & Random Forest Classifier.
+
+Question 10: Create Python Scripts Models of below Algorithms -
+             1. Linear(Single/Multi) Regression.
+	     2. Logistic Regression.
+             3. Support Vector Regression & Classifier.
+             4. Naive Bayes Classifier.
+             5. K Nearest Neighbor.
+             6. Decision Tree Classifier.
+             7. Random Forest Classifier.
+       
+
+
+
+
+
+
+
+
+
+
